@@ -1,0 +1,41 @@
+```php
+# Dependency directories
+vendor/
+composer.lock
+
+# Environment specific files
+.env
+.env.local
+.env.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database dump files
+*.sql.bak
+*.dump
+*.backup
+
+# Cache directories
+.cache/
+tmp/
+temp/
+
+# PHP specific
+*.php~
+.php_cs.cache
+
+# Web server files
+.htaccess
+```
